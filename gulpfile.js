@@ -45,6 +45,7 @@ gulp.task('test', ['pre-test'], function (cb) {
     });
 });
 
+
 gulp.task('watch', function () {
   gulp.watch(['generators/**/*.js', 'test/**'], ['test']);
 });
