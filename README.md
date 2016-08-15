@@ -1,5 +1,5 @@
 # generator-ngrequire [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Angularjs scaffold using Requirejs for yeoman
+> Angularjs scaffold using Require.js for yeoman
 
 ## Installation
 
