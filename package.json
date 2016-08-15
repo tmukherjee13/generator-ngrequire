@@ -1,6 +1,6 @@
 {
   "name": "generator-ngrequire",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Angularjs scaffold using Requirejs for yeoman",
   "homepage": "",
   "author": {
